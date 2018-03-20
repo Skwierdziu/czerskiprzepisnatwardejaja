@@ -1,5 +1,6 @@
 #dupxo{
     width: 500px;
     height: 500px;
-    background: pink;
+    background: linear-gradient(red, yellow);
+    
 }
